@@ -1,0 +1,4 @@
+com\apptest\qa\pages\LoginPage.class
+com\apptest\qa\pages\HomePage.class
+com\apptest\qa\testutil\TestUtil.class
+com\apptest\qa\base\TestBase.class
